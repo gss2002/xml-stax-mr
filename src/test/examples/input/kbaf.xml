@@ -1,0 +1,3658 @@
+    <METAR>
+      <raw_text>KBAF 210253Z 31010KT 10SM CLR 02/M04 A2999 RMK AO2 SLP160 T00171044 53020</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-21T02:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>-4.4</dewpoint_c>
+      <wind_dir_degrees>310</wind_dir_degrees>
+      <wind_speed_kt>10</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.991142</altim_in_hg>
+      <sea_level_pressure_mb>1016.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="CLR" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>2.0</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 210153Z 33006KT 10SM FEW031 FEW075 02/M03 A2996 RMK AO2 SLP152 T00171028</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-21T01:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>-2.8</dewpoint_c>
+      <wind_dir_degrees>330</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.958662</altim_in_hg>
+      <sea_level_pressure_mb>1015.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="3100" />
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="7500" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 210053Z 29005KT 10SM FEW060 02/M02 A2994 RMK AO2 SLP144 T00171022</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-21T00:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>-2.2</dewpoint_c>
+      <wind_dir_degrees>290</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.940945</altim_in_hg>
+      <sea_level_pressure_mb>1014.4</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="6000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 202353Z 30005KT 10SM CLR 02/M02 A2993 RMK AO2 SLP140 60001 T00221017 10028 20011 53024</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T23:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>300</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.929134</altim_in_hg>
+      <sea_level_pressure_mb>1014.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="CLR" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>2.4</three_hr_pressure_tendency_mb>
+      <maxT_c>2.8</maxT_c>
+      <minT_c>1.1</minT_c>
+      <pcp6hr_in>0.01</pcp6hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 202253Z 30007KT 10SM CLR 02/M01 A2990 RMK AO2 SLP131 T00221011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T22:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>300</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <sea_level_pressure_mb>1013.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="CLR" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 202217Z 00000KT 7SM CLR 01/01 A2989 RMK AO2 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T22:17:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>29.890747</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="CLR" />
+      <flight_category>VFR</flight_category>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 202205Z 11003KT 2 1/2SM BR SCT075 01/00 A2988 RMK AO2 VIS 1 1/4V5 T00110000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T22:05:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>110</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>2.5</visibility_statute_mi>
+      <altim_in_hg>29.878937</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="7500" />
+      <flight_category>IFR</flight_category>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 202153Z 00000KT 4SM BR FEW060 BKN075 01/01 A2988 RMK AO2 SLP123 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T21:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>29.878937</altim_in_hg>
+      <sea_level_pressure_mb>1012.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="6000" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="7500" />
+      <flight_category>MVFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 202053Z 07003KT 10SM FEW026 SCT033 OVC046 02/01 A2986 RMK AO2 RAE47 SLP116 P0001 60001 T00220011 53007</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T20:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>70</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.861221</altim_in_hg>
+      <sea_level_pressure_mb>1011.6</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="2600" />
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="3300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4600" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>0.7</three_hr_pressure_tendency_mb>
+      <precip_in>0.01</precip_in>
+      <pcp3hr_in>0.01</pcp3hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 202022Z 03003KT 10SM -RA OVC031 02/01 A2985 RMK AO2 P0001 T00220011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T20:22:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>30</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.84941</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3100" />
+      <flight_category>VFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201953Z 35006KT 10SM -RA FEW008 BKN020 OVC025 02/01 A2985 RMK AO2 UPB01E04B17E19RAB04 SLP113 P0000 T00220011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T19:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.84941</altim_in_hg>
+      <sea_level_pressure_mb>1011.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="800" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="2000" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2500" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201931Z 34006KT 6SM -RA BR FEW008 SCT017 OVC024 02/01 A2984 RMK AO2 UPB01E04B17E19RAB04 P0000 T00220011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T19:31:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>340</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>29.840551</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="800" />
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="1700" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2400" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201907Z 36005KT 4SM -RA BR OVC016 02/01 A2984 RMK AO2 UPB01E04RAB04 P0000 T00220011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T19:07:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>29.840551</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1600" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201853Z 35004KT 7SM OVC014 02/01 A2984 RMK AO2 SLP111 T00220011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T18:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>29.840551</altim_in_hg>
+      <sea_level_pressure_mb>1011.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1400" />
+      <flight_category>MVFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201823Z 36005KT 10SM BKN010 OVC015 02/01 A2984 RMK AO2 T00220011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T18:23:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.840551</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1000" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1500" />
+      <flight_category>MVFR</flight_category>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201753Z 36006KT 10SM BKN008 OVC016 02/01 A2983 RMK AO2 UPE04 SLP108 P0000 60009 T00170006 10017 20006 57017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T17:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.828741</altim_in_hg>
+      <sea_level_pressure_mb>1010.8</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="800" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1600" />
+      <flight_category>IFR</flight_category>
+      <three_hr_pressure_tendency_mb>-1.7</three_hr_pressure_tendency_mb>
+      <maxT_c>1.7</maxT_c>
+      <minT_c>0.6</minT_c>
+      <precip_in>0.005</precip_in>
+      <pcp6hr_in>0.09</pcp6hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201711Z 36007KT 10SM BKN005 BKN017 OVC022 02/01 A2984 RMK AO2 UPE04 P0000 T00170006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T17:11:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.840551</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1700" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2200" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201653Z 01007KT 8SM UP SCT005 OVC022 01/01 A2984 RMK AO2 UPB02SNE1557B39E49 SLP112 P0001 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T16:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>8.0</visibility_statute_mi>
+      <altim_in_hg>29.840551</altim_in_hg>
+      <sea_level_pressure_mb>1011.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>UP</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2200" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201622Z 36005KT 9SM UP SCT005 SCT010 OVC023 01/00 A2987 RMK AO2 UPB02SNE1557 P0000 T00110000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T16:22:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>9.0</visibility_statute_mi>
+      <altim_in_hg>29.870079</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>UP</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="1000" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2300" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201553Z 35006KT 6SM -SN BR BKN005 OVC025 01/00 A2987 RMK AO2 SLP122 P0001 T00110000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T15:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>29.870079</altim_in_hg>
+      <sea_level_pressure_mb>1012.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2500" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201512Z 35005KT 3SM -SN BR BKN006 BKN011 OVC027 01/00 A2989 RMK AO2 P0001 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T15:12:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>29.890747</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="600" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1100" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2700" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201453Z 01006KT 2SM -SN BR BKN006 OVC011 01/00 A2988 RMK AO2 SLP126 P0002 60007 T00060000 56005</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T14:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>2.0</visibility_statute_mi>
+      <altim_in_hg>29.878937</altim_in_hg>
+      <sea_level_pressure_mb>1012.6</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="600" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1100" />
+      <flight_category>IFR</flight_category>
+      <three_hr_pressure_tendency_mb>-0.5</three_hr_pressure_tendency_mb>
+      <precip_in>0.02</precip_in>
+      <pcp3hr_in>0.07</pcp3hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201431Z 36006KT 2 1/2SM -SN BR BKN005 OVC013 01/00 A2989 RMK AO2 P0001 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T14:31:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>2.5</visibility_statute_mi>
+      <altim_in_hg>29.890747</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1300" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201401Z 35005KT 3SM -SN BR OVC005 01/00 A2989 RMK AO2 CIG 003V007 P0000 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T14:01:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>29.890747</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="500" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201353Z 36006KT 3SM -SN BR OVC004 01/00 A2989 RMK AO2 RAE23UPB08E12B33E37SNB23E33B37 SLP127 P0001 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T13:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>29.890747</altim_in_hg>
+      <sea_level_pressure_mb>1012.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201343Z 35006KT 2 1/2SM -SN BR OVC004 01/00 A2989 RMK AO2 RAE23UPB08E12B33E37SNB23E33B37 P0001 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T13:43:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>2.5</visibility_statute_mi>
+      <altim_in_hg>29.890747</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201330Z 36005KT 1 1/2SM -SN BR BKN004 OVC023 01/00 A2990 RMK AO2 RAE23UPB08E12SNB23 P0001 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T13:30:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>1.5</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2300" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201313Z 01005KT 2 1/2SM -RA BR BKN004 OVC023 01/00 A2990 RMK AO2 UPB08E12 P0000 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T13:13:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>2.5</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2300" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201253Z 36005KT 3SM -RA BR BKN005 BKN016 OVC025 01/00 A2990 RMK AO2 RAE03B16SNB03E16 SLP131 P0004 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T12:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <sea_level_pressure_mb>1013.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1600" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2500" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.04</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201226Z 36006KT 8SM -RA SCT004 OVC025 01/M01 A2990 RMK AO2 RAE03B16SNB03E16 P0003 T00061006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T12:26:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>8.0</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2500" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201214Z 01006KT 3SM -SN BR BKN004 OVC023 01/M01 A2990 RMK AO2 RAE03SNB03 P0003 T00061006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T12:14:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2300" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201202Z 02005KT 1 3/4SM RA BR BKN004 OVC021 01/00 A2990 RMK AO2 P0002 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T12:02:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>20</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>1.75</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2100" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.02</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201153Z 36007KT 4SM -RA BR BKN004 OVC021 01/00 A2990 RMK AO2 SLP133 P0003 60012 70023 T00060000 10011 20006 56005</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T11:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <sea_level_pressure_mb>1013.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2100" />
+      <flight_category>LIFR</flight_category>
+      <three_hr_pressure_tendency_mb>-0.5</three_hr_pressure_tendency_mb>
+      <maxT_c>1.1</maxT_c>
+      <minT_c>0.6</minT_c>
+      <precip_in>0.03</precip_in>
+      <pcp6hr_in>0.12</pcp6hr_in>
+      <pcp24hr_in>0.23</pcp24hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201132Z AUTO 01007KT 6SM -RA BR SCT005 OVC021 01/00 A2990 RMK AO2 P0002 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T11:32:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2100" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.02</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201053Z AUTO 01006KT 7SM -RA BKN005 OVC013 01/00 A2990 RMK AO2 SLP132 P0004 T00110000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T10:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <sea_level_pressure_mb>1013.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1300" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.04</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 201040Z AUTO 01005KT 7SM -RA BKN005 BKN012 OVC017 01/00 A2990 RMK AO2 P0003 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T10:40:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1200" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1700" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200953Z AUTO 36007KT 5SM -RA BR OVC004 01/00 A2991 RMK AO2 SLP134 P0003 T00110000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T09:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>29.911417</altim_in_hg>
+      <sea_level_pressure_mb>1013.4</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200853Z AUTO 36006KT 4SM -RA BR OVC004 01/00 A2992 RMK AO2 UPB28E31 SLP138 P0001 60002 T00110000 56016</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T08:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>29.920275</altim_in_hg>
+      <sea_level_pressure_mb>1013.8</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <three_hr_pressure_tendency_mb>-1.6</three_hr_pressure_tendency_mb>
+      <precip_in>0.01</precip_in>
+      <pcp3hr_in>0.02</pcp3hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200753Z AUTO 36005KT 3SM -RA BR BKN003 OVC014 01/01 A2993 RMK AO2 UPB29E35RAB35 SLP141 P0001 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T07:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>29.929134</altim_in_hg>
+      <sea_level_pressure_mb>1014.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200737Z AUTO 36005KT 5SM -RA BR BKN003 BKN014 OVC020 01/00 A2994 RMK AO2 UPB29E35RAB35 P0000 T00110000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T07:37:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>29.940945</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2000" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200653Z AUTO 35004KT 5SM BR SCT003 OVC020 01/01 A2994 RMK AO2 RAB19E44 SLP145 P0000 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T06:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>29.940945</altim_in_hg>
+      <sea_level_pressure_mb>1014.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2000" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200646Z AUTO 35004KT 5SM BR SCT003 OVC020 01/01 A2995 RMK AO2 RAB19E44 P0000 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T06:46:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>29.949802</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2000" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200636Z AUTO 03003KT 5SM -RA BR BKN004 OVC020 01/01 A2995 RMK AO2 RAB19 P0000 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T06:36:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>30</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>29.949802</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2000" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200622Z AUTO 04003KT 4SM -RA BR SCT004 OVC020 01/01 A2995 RMK AO2 RAB19 P0000 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T06:22:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>40</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>29.949802</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2000" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200553Z AUTO 33003KT 5SM BR BKN003 OVC018 01/01 A2997 RMK AO2 RAE0456 SLP153 P0000 60002 T00110006 10017 20011 56015</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T05:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>330</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>29.970472</altim_in_hg>
+      <sea_level_pressure_mb>1015.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1800" />
+      <flight_category>LIFR</flight_category>
+      <three_hr_pressure_tendency_mb>-1.5</three_hr_pressure_tendency_mb>
+      <maxT_c>1.7</maxT_c>
+      <minT_c>1.1</minT_c>
+      <precip_in>0.005</precip_in>
+      <pcp6hr_in>0.02</pcp6hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200530Z AUTO 01003KT 4SM BR BKN004 BKN019 OVC025 01/01 A2997 RMK AO2 RAE0456 P0000 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T05:30:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>29.970472</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1900" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2500" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200505Z AUTO 01004KT 5SM BR FEW005 OVC019 01/01 A2997 RMK AO2 RAE0456 P0000 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T05:05:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>29.970472</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1900" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200453Z AUTO 35004KT 8SM -RA OVC019 01/01 A2998 RMK AO2 RAB47 SLP159 P0000 T00110006 400281006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T04:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>8.0</visibility_statute_mi>
+      <altim_in_hg>29.97933</altim_in_hg>
+      <sea_level_pressure_mb>1015.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1900" />
+      <flight_category>MVFR</flight_category>
+      <maxT24hr_c>2.8</maxT24hr_c>
+      <minT24hr_c>-0.6</minT24hr_c>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200353Z AUTO 01005KT 8SM BKN027 OVC035 02/01 A2999 RMK AO2 RAE03B22E47 SLP162 P0000 T00170006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T03:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>8.0</visibility_statute_mi>
+      <altim_in_hg>29.991142</altim_in_hg>
+      <sea_level_pressure_mb>1016.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="2700" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3500" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200321Z AUTO 01004KT 6SM BR SCT004 BKN027 OVC037 02/01 A3001 RMK AO2 RAE03 P0000 T00170011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T03:21:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.008858</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="2700" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3700" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200313Z AUTO 36003KT 4SM BR BKN004 OVC037 02/01 A3001 RMK AO2 RAE03 P0000 T00170011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T03:13:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>30.008858</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3700" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200253Z 00000KT 4SM -RA BR FEW004 OVC038 02/01 A3001 RMK AO2 RAE04B28 SLP169 P0001 60002 T00170011 56005</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T02:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>30.008858</altim_in_hg>
+      <sea_level_pressure_mb>1016.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3800" />
+      <flight_category>MVFR</flight_category>
+      <three_hr_pressure_tendency_mb>-0.5</three_hr_pressure_tendency_mb>
+      <precip_in>0.01</precip_in>
+      <pcp3hr_in>0.02</pcp3hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200153Z 01004KT 4SM -RA BR OVC037 02/01 A3001 RMK AO2 SLP169 P0001 T00170006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T01:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>30.008858</altim_in_hg>
+      <sea_level_pressure_mb>1016.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3700" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 200053Z 01004KT 3SM -RA BR OVC036 01/01 A3002 RMK AO2 RAB39 SLP172 P0000 T00110006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-20T00:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>30.02067</altim_in_hg>
+      <sea_level_pressure_mb>1017.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3600" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 192353Z 00000KT 3SM BR OVC042 02/01 A3003 RMK AO2 RAB00E35 SLP174 P0000 60000 T00170011 10028 20017 55004</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T23:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>30.029528</altim_in_hg>
+      <sea_level_pressure_mb>1017.4</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4200" />
+      <flight_category>MVFR</flight_category>
+      <three_hr_pressure_tendency_mb>-0.4</three_hr_pressure_tendency_mb>
+      <maxT_c>2.8</maxT_c>
+      <minT_c>1.7</minT_c>
+      <precip_in>0.005</precip_in>
+      <pcp6hr_in>0.005</pcp6hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 192342Z 03003KT 3SM BR FEW004 OVC043 02/01 A3002 RMK AO2 RAB00E35 P0000 T00170006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T23:42:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>30</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>30.02067</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4300" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 192333Z 34003KT 2SM -RA BR SCT004 OVC043 02/01 A3003 RMK AO2 RAB00 P0000 T00170011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T23:33:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>340</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>2.0</visibility_statute_mi>
+      <altim_in_hg>30.029528</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4300" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 192326Z 00000KT 3/4SM R20/P6000FT -RA BR BKN004 OVC043 02/01 A3003 RMK AO2 RAB00 P0000 T00170011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T23:26:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>0.75</visibility_statute_mi>
+      <altim_in_hg>30.029528</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4300" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 192316Z 00000KT 1 3/4SM -RA BR OVC004 02/01 A3003 RMK AO2 RAB00 P0000 T00170011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T23:16:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>1.75</visibility_statute_mi>
+      <altim_in_hg>30.029528</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 192253Z 00000KT 4SM BR OVC004 02/01 A3002 RMK AO2 RAE24 SLP173 P0000 T00170011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T22:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>30.02067</altim_in_hg>
+      <sea_level_pressure_mb>1017.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 192153Z 36004KT 5SM -RA BR OVC004 02/01 A3003 RMK AO2 RAB04 SLP176 P0000 T00170011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T21:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>30.029528</altim_in_hg>
+      <sea_level_pressure_mb>1017.6</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 192138Z 36004KT 4SM -RA BR OVC004 02/01 A3003 RMK AO2 RAB04 P0000 T00220011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T21:38:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>30.029528</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 192053Z 00000KT 4SM BR OVC005 02/01 A3004 RMK AO2 SLP178 T00220011 56010</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T20:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>30.041338</altim_in_hg>
+      <sea_level_pressure_mb>1017.8</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="500" />
+      <flight_category>IFR</flight_category>
+      <three_hr_pressure_tendency_mb>-1.0</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191953Z 36004KT 6SM BR BKN005 OVC037 03/02 A3005 RMK AO2 SLP181 T00280017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T19:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.8</temp_c>
+      <dewpoint_c>1.7</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.050198</altim_in_hg>
+      <sea_level_pressure_mb>1018.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3700" />
+      <flight_category>IFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191946Z 00000KT 7SM BKN006 OVC037 03/02 A3004 RMK AO2 T00280017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T19:46:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.8</temp_c>
+      <dewpoint_c>1.7</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>30.041338</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="600" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3700" />
+      <flight_category>IFR</flight_category>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191853Z 35003KT 9SM FEW005 OVC043 02/01 A3005 RMK AO2 SLP183 T00220006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T18:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>9.0</visibility_statute_mi>
+      <altim_in_hg>30.050198</altim_in_hg>
+      <sea_level_pressure_mb>1018.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4300" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191812Z 36003KT 10SM FEW005 OVC045 02/00 A3007 RMK AO2 T00220000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T18:12:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.070866</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4500" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191753Z 00000KT 10SM BKN005 OVC046 03/01 A3007 RMK AO2 SLP188 60009 I6000 T00280006 10028 20000 58021</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T17:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.8</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.070866</altim_in_hg>
+      <sea_level_pressure_mb>1018.8</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4600" />
+      <flight_category>IFR</flight_category>
+      <three_hr_pressure_tendency_mb>-2.1</three_hr_pressure_tendency_mb>
+      <maxT_c>2.8</maxT_c>
+      <minT_c>0.0</minT_c>
+      <pcp6hr_in>0.09</pcp6hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191732Z 00000KT 10SM BKN005 OVC046 02/01 A3007 RMK AO2 T00220006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T17:32:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.070866</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4600" />
+      <flight_category>IFR</flight_category>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191653Z 00000KT 9SM BKN004 BKN013 OVC039 02/00 A3009 RMK AO2 RAE09UPB07E08 SLP197 P0001 T00170000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T16:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>9.0</visibility_statute_mi>
+      <altim_in_hg>30.088583</altim_in_hg>
+      <sea_level_pressure_mb>1019.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3900" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191631Z 36003KT 9SM FEW005 BKN013 OVC039 01/M01 A3010 RMK AO2 RAE09UPB07E08 P0001 T00111006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T16:31:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>9.0</visibility_statute_mi>
+      <altim_in_hg>30.100393</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3900" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191553Z 02004KT 7SM -RA FEW004 OVC016 01/M01 A3012 RMK AO2 RAB1457E24B26UPB08E10 SLP204 P0000 T00111006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T15:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>20</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>30.121063</altim_in_hg>
+      <sea_level_pressure_mb>1020.4</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1600" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191524Z 36003KT 6SM BR SCT005 BKN015 OVC050 01/M01 A3013 RMK AO2 RAB1457E24UPB08E10 P0000 T00111006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T15:24:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.129921</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191507Z 03003KT 6SM -RA BR FEW003 OVC049 01/M01 A3013 RMK AO2 RAB1457 P0000 T00061006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T15:07:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>30</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.129921</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+      <flight_category>VFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191500Z 04003KT 5SM -RA BR BKN003 OVC049 01/M01 A3013 RMK AO2 RAB1457 P0000 T00061006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T15:00:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>40</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>30.129921</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191453Z 02003KT 1 1/2SM BR BKN003 BKN014 OVC049 01/M01 A3013 RMK AO2 RAE52 SLP209 P0002 60008 I3000 T00061011 58004</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T14:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>20</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>1.5</visibility_statute_mi>
+      <altim_in_hg>30.129921</altim_in_hg>
+      <sea_level_pressure_mb>1020.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+      <flight_category>LIFR</flight_category>
+      <three_hr_pressure_tendency_mb>-0.4</three_hr_pressure_tendency_mb>
+      <precip_in>0.02</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191444Z 00000KT 1 1/2SM -RA BR BKN003 OVC014 01/M01 A3013 RMK AO2 P0002 T00061006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T14:44:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>1.5</visibility_statute_mi>
+      <altim_in_hg>30.129921</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.02</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191435Z 00000KT 1 1/2SM -RA BR SCT004 OVC014 01/M01 A3013 RMK AO2 P0002 T00061006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T14:35:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>1.5</visibility_statute_mi>
+      <altim_in_hg>30.129921</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1400" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.02</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191427Z 00000KT 1 1/2SM -RA BR OVC014 01/00 A3013 RMK AO2 P0002 T00060000</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T14:27:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>0.0</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>1.5</visibility_statute_mi>
+      <altim_in_hg>30.129921</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1400" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.02</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191353Z 35003KT 5SM -RA BR SCT003 OVC015 01/M01 A3014 RMK AO2 RAE05B21UPB05E21 SLP212 P0003 T00061006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T13:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>350</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>5.0</visibility_statute_mi>
+      <altim_in_hg>30.138779</altim_in_hg>
+      <sea_level_pressure_mb>1021.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1500" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191334Z 00000KT 3SM R20/6000VP6000FT -RA BR FEW004 OVC015 01/M01 A3014 RMK AO2 RAE05B21UPB05E21 P0002 T00061006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T13:34:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>3.0</visibility_statute_mi>
+      <altim_in_hg>30.138779</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1500" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.02</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191253Z 36003KT 4SM R20/6000VP6000FT -RA BR OVC016 01/M01 A3014 RMK AO2 UPB1156E22RAB22FZRAE1156 SLP213 P0003 I1000 T00061006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T12:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>30.138779</altim_in_hg>
+      <sea_level_pressure_mb>1021.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-RA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1600" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191202Z 00000KT 6SM UP BR OVC017 00/M01 A3014 RMK AO2 UPB1156FZRAE1156 P0000 I1000 T00001006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T12:02:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.138779</altim_in_hg>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>BR UP</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1700" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191153Z 00000KT 6SM -FZRA BR OVC017 00/M01 A3014 RMK AO2 SLP213 P0003 60021 70022 I1001 I6013 T00001006 10000 21006 58005</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T11:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.138779</altim_in_hg>
+      <sea_level_pressure_mb>1021.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1700" />
+      <flight_category>MVFR</flight_category>
+      <three_hr_pressure_tendency_mb>-0.5</three_hr_pressure_tendency_mb>
+      <maxT_c>0.0</maxT_c>
+      <minT_c>-0.6</minT_c>
+      <precip_in>0.03</precip_in>
+      <pcp6hr_in>0.21</pcp6hr_in>
+      <pcp24hr_in>0.22</pcp24hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191116Z AUTO 00000KT 6SM -FZRA BR FEW003 OVC016 00/M01 A3014 RMK AO2 P0001 I1001 T00001006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T11:16:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-0.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.138779</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1600" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191105Z AUTO 00000KT 7SM -FZRA BKN004 OVC016 00/M01 A3014 RMK AO2 P0000 I1000 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T11:05:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>30.138779</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1600" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191053Z AUTO 01003KT 6SM -FZRA BR SCT004 OVC016 00/M01 A3015 RMK AO2 UPE01FZRAB01 SLP214 P0005 I1004 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T10:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.15059</altim_in_hg>
+      <sea_level_pressure_mb>1021.4</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1600" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.05</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 191007Z AUTO 00000KT 6SM -FZRA BR OVC004 00/M01 A3016 RMK AO2 UPE01FZRAB01 P0001 I1002 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T10:07:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.159449</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190953Z AUTO 00000KT 7SM UP OVC004 00/M01 A3016 RMK AO2 UPB45FZRAE45 SLP219 P0004 I1002 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T09:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>30.159449</altim_in_hg>
+      <sea_level_pressure_mb>1021.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>UP</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.04</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190951Z AUTO 01004KT 7SM UP OVC004 00/M01 A3016 RMK AO2 UPB45FZRAE45 P0004 I1002</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T09:51:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.0</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>30.159449</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>UP</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="400" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.04</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190925Z AUTO 36004KT 7SM -FZRA BKN004 OVC026 00/M01 A3016 RMK AO2 P0003 I1001 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T09:25:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>30.159449</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2600" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190917Z AUTO 01003KT 7SM -FZRA SCT004 OVC025 00/M01 A3016 RMK AO2 P0002 I1001 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T09:17:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>30.159449</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2500" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.02</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190904Z AUTO 02004KT 6SM -FZRA BR BKN004 BKN018 OVC027 00/M01 A3016 RMK AO2 P0001 I1000 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T09:04:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>20</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.159449</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1800" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2700" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190853Z AUTO 02003KT 6SM -FZRA BR SCT004 BKN018 OVC024 00/M01 A3017 RMK AO2 SLP222 P0003 60009 I1003 I3006 T00001011 58010</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T08:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>20</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.171259</altim_in_hg>
+      <sea_level_pressure_mb>1022.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1800" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2400" />
+      <flight_category>MVFR</flight_category>
+      <three_hr_pressure_tendency_mb>-1.0</three_hr_pressure_tendency_mb>
+      <precip_in>0.03</precip_in>
+      <pcp3hr_in>0.09</pcp3hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190840Z AUTO 36004KT 6SM -FZRA BR SCT004 BKN019 OVC026 00/M01 A3017 RMK AO2 P0002 I1002 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T08:40:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.171259</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="1900" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2600" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.02</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190753Z AUTO 36005KT 6SM -FZRA BR BKN004 OVC021 00/M01 A3019 RMK AO2 SLP229 P0003 I1002 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T07:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.188976</altim_in_hg>
+      <sea_level_pressure_mb>1022.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2100" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190751Z AUTO 36004KT 6SM -FZRA BR BKN004 OVC019 00/M01 A3019 RMK AO2 P0003 I1002</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T07:51:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.0</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.188976</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="400" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1900" />
+      <flight_category>LIFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190739Z AUTO 01003KT 6SM -FZRA BR SCT005 OVC019 00/M01 A3019 RMK AO2 P0002 I1001 T00001011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T07:39:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.188976</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA BR</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1900" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.02</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190653Z AUTO 36004KT 7SM -FZRA OVC022 00/M02 A3020 RMK AO2 UPB18E52FZRAB52SNE18 SLP232 P0003 I1001 T00001017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T06:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>30.200787</altim_in_hg>
+      <sea_level_pressure_mb>1023.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-FZRA</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2200" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.03</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190553Z AUTO 00000KT 4SM -SN BR OVC026 M01/M02 A3021 RMK AO2 UPB11E13SNE11B13 SLP237 P0001 60001 T10061022 10022 21006 58013</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T05:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>-0.6</temp_c>
+      <dewpoint_c>-2.2</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>30.209646</altim_in_hg>
+      <sea_level_pressure_mb>1023.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2600" />
+      <flight_category>MVFR</flight_category>
+      <three_hr_pressure_tendency_mb>-1.3</three_hr_pressure_tendency_mb>
+      <maxT_c>2.2</maxT_c>
+      <minT_c>-0.6</minT_c>
+      <precip_in>0.01</precip_in>
+      <pcp6hr_in>0.01</pcp6hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190538Z AUTO 00000KT 4SM -SN BR OVC026 00/M02 A3021 RMK AO2 UPB11E13SNE11B13 P0001 T00001022</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T05:38:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-2.2</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>4.0</visibility_statute_mi>
+      <altim_in_hg>30.209646</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2600" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.01</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190530Z AUTO 00000KT 2 1/2SM -SN BR OVC026 00/M02 A3022 RMK AO2 UPB11E13SNE11B13 P0000 T00001022</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T05:30:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-2.2</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>2.5</visibility_statute_mi>
+      <altim_in_hg>30.221457</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2600" />
+      <flight_category>IFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190453Z AUTO 01003KT 6SM -SN BR OVC025 00/M02 A3023 RMK AO2 SLP243 P0000 T00001022 400391011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T04:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-2.2</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>6.0</visibility_statute_mi>
+      <altim_in_hg>30.230314</altim_in_hg>
+      <sea_level_pressure_mb>1024.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN BR</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2500" />
+      <flight_category>MVFR</flight_category>
+      <maxT24hr_c>3.9</maxT24hr_c>
+      <minT24hr_c>-1.1</minT24hr_c>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190353Z AUTO 01003KT 7SM -SN OVC021 01/M03 A3024 RMK AO2 SNB21 SLP247 P0000 T00061028</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T03:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-2.8</dewpoint_c>
+      <wind_dir_degrees>10</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>7.0</visibility_statute_mi>
+      <altim_in_hg>30.239174</altim_in_hg>
+      <sea_level_pressure_mb>1024.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>-SN</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="2100" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190308Z AUTO 00000KT 10SM BKN026 OVC031 01/M05 A3025 RMK AO2 T00111050</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T03:08:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>-5.0</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.250984</altim_in_hg>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="2600" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3100" />
+      <flight_category>MVFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190253Z 00000KT 10SM OVC031 01/M05 A3025 RMK AO2 SLP250 T00111050 56014</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T02:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>-5.0</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.250984</altim_in_hg>
+      <sea_level_pressure_mb>1025.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3100" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>-1.4</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190153Z 15003KT 10SM OVC037 01/M06 A3026 RMK AO2 SLP252 T00111056</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T01:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>-5.6</dewpoint_c>
+      <wind_dir_degrees>150</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.259842</altim_in_hg>
+      <sea_level_pressure_mb>1025.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3700" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 190053Z 00000KT 10SM OVC037 02/M06 A3028 RMK AO2 SLP260 T00171056</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-19T00:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>-5.6</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.280512</altim_in_hg>
+      <sea_level_pressure_mb>1026.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3700" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 182353Z 00000KT 10SM BKN037 OVC048 02/M07 A3029 RMK AO2 SLP265 T00221067 10039 20022 58005</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T23:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>-6.7</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.28937</altim_in_hg>
+      <sea_level_pressure_mb>1026.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="3700" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4800" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>-0.5</three_hr_pressure_tendency_mb>
+      <maxT_c>3.9</maxT_c>
+      <minT_c>2.2</minT_c>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 182253Z 00000KT 10SM OVC043 02/M07 A3030 RMK AO2 SLP268 T00221067</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T22:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>-6.7</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.301182</altim_in_hg>
+      <sea_level_pressure_mb>1026.8</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4300" />
+      <flight_category>VFR</flight_category>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 182153Z 00000KT 10SM OVC050 03/M07 A3030 RMK AO2 SLP267 T00281072</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T21:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.8</temp_c>
+      <dewpoint_c>-7.2</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.301182</altim_in_hg>
+      <sea_level_pressure_mb>1026.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 182053Z 00000KT 10SM BKN060 OVC085 03/M07 A3031 RMK AO2 SLP269 T00331072 55006</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T20:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.3</temp_c>
+      <dewpoint_c>-7.2</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.31004</altim_in_hg>
+      <sea_level_pressure_mb>1026.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="6000" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="8500" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>-0.6</three_hr_pressure_tendency_mb>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181953Z 00000KT 10SM CLR 04/M08 A3030 RMK AO2 SLP265 T00391083</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T19:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.9</temp_c>
+      <dewpoint_c>-8.3</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.301182</altim_in_hg>
+      <sea_level_pressure_mb>1026.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="CLR" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181853Z 16003KT 10SM OVC090 03/M08 A3032 RMK AO2 SLP272 T00281078</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T18:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.8</temp_c>
+      <dewpoint_c>-7.8</dewpoint_c>
+      <wind_dir_degrees>160</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.318897</altim_in_hg>
+      <sea_level_pressure_mb>1027.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="9000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181753Z 00000KT 10SM OVC075 02/M09 A3033 RMK AO2 SLP275 T00221089 10028 21011 58021</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T17:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>-8.9</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.33071</altim_in_hg>
+      <sea_level_pressure_mb>1027.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="7500" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>-2.1</three_hr_pressure_tendency_mb>
+      <maxT_c>2.8</maxT_c>
+      <minT_c>-1.1</minT_c>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181653Z 00000KT 10SM BKN075 OVC100 03/M09 A3035 RMK AO2 SLP282 T00281089</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T16:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.8</temp_c>
+      <dewpoint_c>-8.9</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.351377</altim_in_hg>
+      <sea_level_pressure_mb>1028.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="7500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="10000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181553Z 31005KT 10SM OVC090 01/M07 A3037 RMK AO2 SLP290 T00111072</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T15:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.1</temp_c>
+      <dewpoint_c>-7.2</dewpoint_c>
+      <wind_dir_degrees>310</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.369095</altim_in_hg>
+      <sea_level_pressure_mb>1029.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="9000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181453Z 33009KT 10SM OVC100 02/M08 A3039 RMK AO2 SLP296 T00171078 50010</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T14:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>-7.8</dewpoint_c>
+      <wind_dir_degrees>330</wind_dir_degrees>
+      <wind_speed_kt>9</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.389763</altim_in_hg>
+      <sea_level_pressure_mb>1029.6</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="10000" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>1.0</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181353Z 31006KT 10SM FEW110 01/M07 A3039 RMK AO2 SLP297 T00061072</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T13:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-7.2</dewpoint_c>
+      <wind_dir_degrees>310</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.389763</altim_in_hg>
+      <sea_level_pressure_mb>1029.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="11000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181253Z 30006KT 10SM CLR M01/M08 A3038 RMK AO2 SLP295 T10061078</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T12:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>-0.6</temp_c>
+      <dewpoint_c>-7.8</dewpoint_c>
+      <wind_dir_degrees>300</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.380905</altim_in_hg>
+      <sea_level_pressure_mb>1029.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="CLR" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181153Z 31008KT 10SM CLR M01/M08 A3036 RMK AO2 SLP287 T10061083 10033 21006 53018</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T11:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>-0.6</temp_c>
+      <dewpoint_c>-8.3</dewpoint_c>
+      <wind_dir_degrees>310</wind_dir_degrees>
+      <wind_speed_kt>8</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.360237</altim_in_hg>
+      <sea_level_pressure_mb>1028.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="CLR" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>1.8</three_hr_pressure_tendency_mb>
+      <maxT_c>3.3</maxT_c>
+      <minT_c>-0.6</minT_c>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 181053Z AUTO 29009KT 10SM CLR 00/M08 A3034 RMK AO2 SLP279 T00001083</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T10:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.0</temp_c>
+      <dewpoint_c>-8.3</dewpoint_c>
+      <wind_dir_degrees>290</wind_dir_degrees>
+      <wind_speed_kt>9</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.339567</altim_in_hg>
+      <sea_level_pressure_mb>1027.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="CLR" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180953Z AUTO 31010KT 10SM CLR 01/M08 A3032 RMK AO2 SLP274 T00061078</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T09:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>0.6</temp_c>
+      <dewpoint_c>-7.8</dewpoint_c>
+      <wind_dir_degrees>310</wind_dir_degrees>
+      <wind_speed_kt>10</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.318897</altim_in_hg>
+      <sea_level_pressure_mb>1027.4</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="CLR" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180853Z AUTO 31012KT 10SM FEW047 02/M07 A3031 RMK AO2 SLP267 T00171072 53017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T08:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>-7.2</dewpoint_c>
+      <wind_dir_degrees>310</wind_dir_degrees>
+      <wind_speed_kt>12</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.31004</altim_in_hg>
+      <sea_level_pressure_mb>1026.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="4700" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>1.7</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180753Z AUTO 31011G18KT 10SM BKN040 02/M06 A3029 RMK AO2 SLP261 T00221061</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T07:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>-6.1</dewpoint_c>
+      <wind_dir_degrees>310</wind_dir_degrees>
+      <wind_speed_kt>11</wind_speed_kt>
+      <wind_gust_kt>18</wind_gust_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.28937</altim_in_hg>
+      <sea_level_pressure_mb>1026.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="4000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180653Z AUTO 31014G21KT 10SM OVC038 03/M05 A3027 RMK AO2 SLP255 T00281050</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T06:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.8</temp_c>
+      <dewpoint_c>-5.0</dewpoint_c>
+      <wind_dir_degrees>310</wind_dir_degrees>
+      <wind_speed_kt>14</wind_speed_kt>
+      <wind_gust_kt>21</wind_gust_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.268702</altim_in_hg>
+      <sea_level_pressure_mb>1025.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3800" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180553Z AUTO 30012KT 10SM OVC042 03/M05 A3026 RMK AO2 SLP250 T00331050 10050 20033 53010</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T05:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.3</temp_c>
+      <dewpoint_c>-5.0</dewpoint_c>
+      <wind_dir_degrees>300</wind_dir_degrees>
+      <wind_speed_kt>12</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.259842</altim_in_hg>
+      <sea_level_pressure_mb>1025.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4200" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>1.0</three_hr_pressure_tendency_mb>
+      <maxT_c>5.0</maxT_c>
+      <minT_c>3.3</minT_c>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180453Z AUTO 30006KT 10SM OVC048 03/M04 A3025 RMK AO2 SLP248 T00331039 400720033</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T04:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.3</temp_c>
+      <dewpoint_c>-3.9</dewpoint_c>
+      <wind_dir_degrees>300</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.250984</altim_in_hg>
+      <sea_level_pressure_mb>1024.8</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4800" />
+      <flight_category>VFR</flight_category>
+      <maxT24hr_c>7.2</maxT24hr_c>
+      <minT24hr_c>3.3</minT24hr_c>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180353Z AUTO 29008KT 10SM OVC046 04/M04 A3023 RMK AO2 SLP241 T00391044</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T03:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.9</temp_c>
+      <dewpoint_c>-4.4</dewpoint_c>
+      <wind_dir_degrees>290</wind_dir_degrees>
+      <wind_speed_kt>8</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.230314</altim_in_hg>
+      <sea_level_pressure_mb>1024.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4600" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180253Z 29004KT 10SM OVC045 04/M03 A3022 RMK AO2 SLP239 T00391033 51017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T02:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.9</temp_c>
+      <dewpoint_c>-3.3</dewpoint_c>
+      <wind_dir_degrees>290</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.221457</altim_in_hg>
+      <sea_level_pressure_mb>1023.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4500" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>1.7</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180153Z 31008KT 10SM OVC043 04/M03 A3021 RMK AO2 SLP235 T00391028</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T01:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.9</temp_c>
+      <dewpoint_c>-2.8</dewpoint_c>
+      <wind_dir_degrees>310</wind_dir_degrees>
+      <wind_speed_kt>8</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.209646</altim_in_hg>
+      <sea_level_pressure_mb>1023.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4300" />
+      <flight_category>VFR</flight_category>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 180053Z 32006KT 10SM OVC042 04/M02 A3020 RMK AO2 SLP229 T00441022</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-18T00:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>4.4</temp_c>
+      <dewpoint_c>-2.2</dewpoint_c>
+      <wind_dir_degrees>320</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.200787</altim_in_hg>
+      <sea_level_pressure_mb>1022.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4200" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 172353Z 27007KT 10SM OVC050 05/M03 A3017 RMK AO2 SLP222 T00501033 10072 20050 53019</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T23:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>5.0</temp_c>
+      <dewpoint_c>-3.3</dewpoint_c>
+      <wind_dir_degrees>270</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.171259</altim_in_hg>
+      <sea_level_pressure_mb>1022.2</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>1.9</three_hr_pressure_tendency_mb>
+      <maxT_c>7.2</maxT_c>
+      <minT_c>5.0</minT_c>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 172253Z 27004KT 10SM OVC050 05/M03 A3015 RMK AO2 SLP215 T00501033</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T22:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>5.0</temp_c>
+      <dewpoint_c>-3.3</dewpoint_c>
+      <wind_dir_degrees>270</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.15059</altim_in_hg>
+      <sea_level_pressure_mb>1021.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 172153Z 27008G15KT 10SM OVC055 06/M04 A3014 RMK AO2 SLP210 T00611039</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T21:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>6.1</temp_c>
+      <dewpoint_c>-3.9</dewpoint_c>
+      <wind_dir_degrees>270</wind_dir_degrees>
+      <wind_speed_kt>8</wind_speed_kt>
+      <wind_gust_kt>15</wind_gust_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.138779</altim_in_hg>
+      <sea_level_pressure_mb>1021.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5500" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 172053Z 26009KT 10SM OVC050 06/M04 A3012 RMK AO2 SLP203 T00611039 53017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T20:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>6.1</temp_c>
+      <dewpoint_c>-3.9</dewpoint_c>
+      <wind_dir_degrees>260</wind_dir_degrees>
+      <wind_speed_kt>9</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.121063</altim_in_hg>
+      <sea_level_pressure_mb>1020.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>1.7</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171953Z 28009KT 10SM OVC050 07/M04 A3009 RMK AO2 SLP195 T00671039</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T19:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>6.7</temp_c>
+      <dewpoint_c>-3.9</dewpoint_c>
+      <wind_dir_degrees>280</wind_dir_degrees>
+      <wind_speed_kt>9</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.088583</altim_in_hg>
+      <sea_level_pressure_mb>1019.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171853Z 27011G17KT 10SM OVC050 07/M04 A3008 RMK AO2 SLP190 T00671039</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T18:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>6.7</temp_c>
+      <dewpoint_c>-3.9</dewpoint_c>
+      <wind_dir_degrees>270</wind_dir_degrees>
+      <wind_speed_kt>11</wind_speed_kt>
+      <wind_gust_kt>17</wind_gust_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.079725</altim_in_hg>
+      <sea_level_pressure_mb>1019.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>SPECI</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171753Z 27011KT 10SM OVC049 07/M03 A3007 RMK AO2 SLP187 T00671033 10067 20044 58003</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T17:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>6.7</temp_c>
+      <dewpoint_c>-3.3</dewpoint_c>
+      <wind_dir_degrees>270</wind_dir_degrees>
+      <wind_speed_kt>11</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.070866</altim_in_hg>
+      <sea_level_pressure_mb>1018.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>-0.3</three_hr_pressure_tendency_mb>
+      <maxT_c>6.7</maxT_c>
+      <minT_c>4.4</minT_c>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171653Z 24006KT 10SM OVC045 06/M02 A3008 RMK AO2 SLP190 T00611022</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T16:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>6.1</temp_c>
+      <dewpoint_c>-2.2</dewpoint_c>
+      <wind_dir_degrees>240</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.079725</altim_in_hg>
+      <sea_level_pressure_mb>1019.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4500" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171553Z 30016G23KT 10SM OVC046 06/M02 A3008 RMK AO2 SLP191 T00611022</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T15:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>6.1</temp_c>
+      <dewpoint_c>-2.2</dewpoint_c>
+      <wind_dir_degrees>300</wind_dir_degrees>
+      <wind_speed_kt>16</wind_speed_kt>
+      <wind_gust_kt>23</wind_gust_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.079725</altim_in_hg>
+      <sea_level_pressure_mb>1019.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4600" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171453Z 29008KT 10SM BKN043 OVC050 06/M02 A3008 RMK AO2 SLP191 T00611017 51023</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T14:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>6.1</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>290</wind_dir_degrees>
+      <wind_speed_kt>8</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.079725</altim_in_hg>
+      <sea_level_pressure_mb>1019.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="4300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>2.3</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171353Z 28005KT 10SM SCT037 OVC049 05/M01 A3007 RMK AO2 SLP187 T00501011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T13:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>5.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>280</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.070866</altim_in_hg>
+      <sea_level_pressure_mb>1018.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="3700" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171253Z 25003KT 10SM FEW037 OVC049 05/M01 A3005 RMK AO2 SLP180 T00501011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T12:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>5.0</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>250</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.050198</altim_in_hg>
+      <sea_level_pressure_mb>1018.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="3700" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171153Z 23003KT 10SM OVC031 04/M02 A3001 RMK AO2 SLP168 70022 T00441017 10050 20033 53028</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T11:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>4.4</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>230</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.008858</altim_in_hg>
+      <sea_level_pressure_mb>1016.8</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3100" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>2.8</three_hr_pressure_tendency_mb>
+      <maxT_c>5.0</maxT_c>
+      <minT_c>3.3</minT_c>
+      <pcp24hr_in>0.22</pcp24hr_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 171053Z AUTO 27006KT 10SM BKN035 OVC050 04/M02 A2998 RMK AO2 SLP157 T00391017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T10:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.9</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>270</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.97933</altim_in_hg>
+      <sea_level_pressure_mb>1015.7</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="3500" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170953Z AUTO 27007KT 10SM OVC049 04/M02 A2995 RMK AO2 SLP148 T00441022</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T09:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>4.4</temp_c>
+      <dewpoint_c>-2.2</dewpoint_c>
+      <wind_dir_degrees>270</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.949802</altim_in_hg>
+      <sea_level_pressure_mb>1014.8</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170853Z AUTO 25009KT 10SM OVC035 04/M02 A2993 RMK AO2 SLP139 T00391017 53023</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T08:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.9</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>250</wind_dir_degrees>
+      <wind_speed_kt>9</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.929134</altim_in_hg>
+      <sea_level_pressure_mb>1013.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3500" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>2.3</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170753Z AUTO 24006KT 10SM OVC036 04/M02 A2990 RMK AO2 SLP131 T00441017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T07:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>4.4</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>240</wind_dir_degrees>
+      <wind_speed_kt>6</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.899607</altim_in_hg>
+      <sea_level_pressure_mb>1013.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3600" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170653Z AUTO 26004KT 10SM OVC031 04/M02 A2988 RMK AO2 SLP123 T00441017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T06:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>4.4</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>260</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.878937</altim_in_hg>
+      <sea_level_pressure_mb>1012.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3100" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170553Z AUTO 25005KT 10SM OVC031 04/M02 A2986 RMK AO2 SLP116 T00441017 10044 20017 51021</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T05:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>4.4</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>250</wind_dir_degrees>
+      <wind_speed_kt>5</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.861221</altim_in_hg>
+      <sea_level_pressure_mb>1011.6</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3100" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>2.1</three_hr_pressure_tendency_mb>
+      <maxT_c>4.4</maxT_c>
+      <minT_c>1.7</minT_c>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170453Z AUTO 00000KT 10SM OVC034 04/M02 A2985 RMK AO2 SLP111 T00391017 400501033</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T04:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>3.9</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>0</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.84941</altim_in_hg>
+      <sea_level_pressure_mb>1011.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3400" />
+      <flight_category>VFR</flight_category>
+      <maxT24hr_c>5.0</maxT24hr_c>
+      <minT24hr_c>-3.3</minT24hr_c>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170353Z AUTO VRB04KT 10SM OVC034 03/M01 A2982 RMK AO2 SLP104 T00281011</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T03:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.8</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>0</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.819881</altim_in_hg>
+      <sea_level_pressure_mb>1010.4</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto>TRUE</auto>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3400" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170253Z 12004KT 10SM OVC038 03/M01 A2979 RMK AO2 SLP095 T00281011 51019</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T02:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.8</temp_c>
+      <dewpoint_c>-1.1</dewpoint_c>
+      <wind_dir_degrees>120</wind_dir_degrees>
+      <wind_speed_kt>4</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.790354</altim_in_hg>
+      <sea_level_pressure_mb>1009.5</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="3800" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>1.9</three_hr_pressure_tendency_mb>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170153Z 17003KT 10SM OVC048 02/M02 A2978 RMK AO2 SLP089 T00221017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T01:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>2.2</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>170</wind_dir_degrees>
+      <wind_speed_kt>3</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.778543</altim_in_hg>
+      <sea_level_pressure_mb>1008.9</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4800" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 170053Z 20008KT 10SM OVC046 02/M02 A2976 RMK AO2 SLP083 T00171017</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-17T00:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>200</wind_dir_degrees>
+      <wind_speed_kt>8</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.760826</altim_in_hg>
+      <sea_level_pressure_mb>1008.3</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="4600" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KBAF 162353Z 20008KT 10SM SCT046 02/M02 A2974 RMK AO2 SLP076 T00171017 10050 20017 51020</raw_text>
+      <station_id>KBAF</station_id>
+      <observation_time>2018-11-16T23:53:00Z</observation_time>
+      <latitude>42.17</latitude>
+      <longitude>-72.72</longitude>
+      <temp_c>1.7</temp_c>
+      <dewpoint_c>-1.7</dewpoint_c>
+      <wind_dir_degrees>200</wind_dir_degrees>
+      <wind_speed_kt>8</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>29.740158</altim_in_hg>
+      <sea_level_pressure_mb>1007.6</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="4600" />
+      <flight_category>VFR</flight_category>
+      <three_hr_pressure_tendency_mb>2.0</three_hr_pressure_tendency_mb>
+      <maxT_c>5.0</maxT_c>
+      <minT_c>1.7</minT_c>
+      <metar_type>METAR</metar_type>
+      <elevation_m>83.0</elevation_m>
+    </METAR>

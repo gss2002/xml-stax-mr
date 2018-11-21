@@ -1,0 +1,3077 @@
+<METAR>
+  <raw_text>KIJD 210252Z AUTO 28003KT 5SM BR CLR M02/M02 A2998 RMK AO2 SLP152 I1000 I3001 T10171017 51015 $</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-21T02:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>28.94</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>280</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>5.0</visibility_statute_mi>
+  <altim_in_hg>29.97933</altim_in_hg>
+  <sea_level_pressure_mb>1015.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+    <maintenance_indicator_on>TRUE</maintenance_indicator_on>
+  </quality_control_flags>
+  <wx_string>BR</wx_string>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>MVFR</flight_category>
+  <three_hr_pressure_tendency_mb>1.5</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 210152Z AUTO 00000KT 6SM BR CLR M01/M01 A2996 RMK AO2 SLP148 I1001 T10111011 $</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-21T01:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>30.02</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>6.0</visibility_statute_mi>
+  <altim_in_hg>29.958662</altim_in_hg>
+  <sea_level_pressure_mb>1014.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+    <maintenance_indicator_on>TRUE</maintenance_indicator_on>
+  </quality_control_flags>
+  <wx_string>BR</wx_string>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 210144Z AUTO 00000KT 5SM BR CLR M02/M02 A2996 RMK AO2 I1001 T10171017 $</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-21T01:44:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>28.94</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>5.0</visibility_statute_mi>
+  <altim_in_hg>29.958662</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+    <maintenance_indicator_on>TRUE</maintenance_indicator_on>
+  </quality_control_flags>
+  <wx_string>BR</wx_string>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 210137Z AUTO 00000KT 2 1/2SM BR CLR M01/M01 A2996 RMK AO2 VIS 1 1/2V5 I1000 T10111011 $</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-21T01:37:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>30.02</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>2.5</visibility_statute_mi>
+  <altim_in_hg>29.958662</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+    <maintenance_indicator_on>TRUE</maintenance_indicator_on>
+  </quality_control_flags>
+  <wx_string>BR</wx_string>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>IFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 210052Z AUTO 00000KT 7SM CLR M01/M01 A2995 RMK AO2 SLP144 I1000 T10061006 $</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-21T00:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>30.92</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>7.0</visibility_statute_mi>
+  <altim_in_hg>29.949802</altim_in_hg>
+  <sea_level_pressure_mb>1014.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+    <maintenance_indicator_on>TRUE</maintenance_indicator_on>
+  </quality_control_flags>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 202352Z AUTO 00000KT 10SM CLR 01/01 A2993 RMK AO2 SLP137 T00060006 10033 20006 $</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T23:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>33.08</temp_c>
+  <dewpoint_c>0.6</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.929134</altim_in_hg>
+  <sea_level_pressure_mb>1013.7</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+    <maintenance_indicator_on>TRUE</maintenance_indicator_on>
+  </quality_control_flags>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <maxT_c>3.3</maxT_c>
+  <minT_c>0.6</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 202252Z AUTO 00000KT 10SM FEW021 OVC060 02/01 A2991 RMK AO2 SLP130 T00220011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T22:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.911417</altim_in_hg>
+  <sea_level_pressure_mb>1013.0</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="2100" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="6000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 202220Z AUTO 36006KT 10SM FEW014 SCT026 BKN055 02/01 A2989 RMK AO2 T00220011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T22:20:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>1.1</dewpoint_c>
+  <wind_dir_degrees>360</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.890747</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="1400" />
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="2600" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="5500" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 202212Z AUTO 34007KT 10SM FEW012 BKN026 BKN039 02/02 A2989 RMK AO2 T00220017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T22:12:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>1.7</dewpoint_c>
+  <wind_dir_degrees>340</wind_dir_degrees>
+  <wind_speed_kt>7</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.890747</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="1200" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="2600" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="3900" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 202152Z AUTO 32007KT 10SM BKN010 BKN014 OVC024 03/02 A2988 RMK AO2 CIG 007V012 SLP121 T00280017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T21:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>1.7</dewpoint_c>
+  <wind_dir_degrees>320</wind_dir_degrees>
+  <wind_speed_kt>7</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.878937</altim_in_hg>
+  <sea_level_pressure_mb>1012.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1000" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1400" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2400" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 202052Z AUTO 33006KT 10SM OVC011 03/02 A2985 RMK AO2 SLP109 T00280022 53009</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T20:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>2.2</dewpoint_c>
+  <wind_dir_degrees>330</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.84941</altim_in_hg>
+  <sea_level_pressure_mb>1010.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1100" />
+  <flight_category>MVFR</flight_category>
+  <three_hr_pressure_tendency_mb>0.9</three_hr_pressure_tendency_mb>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 202028Z AUTO 32007KT 10SM OVC010 03/03 A2984 RMK AO2 CIG 007V013 T00330028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T20:28:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>320</wind_dir_degrees>
+  <wind_speed_kt>7</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.840551</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1000" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 202014Z AUTO 32006KT 10SM OVC009 03/03 A2983 RMK AO2 CIG 007V014 T00330028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T20:14:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>320</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.828741</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="900" />
+  <flight_category>IFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201952Z AUTO 35007KT 10SM OVC012 03/03 A2982 RMK AO2 SLP099 T00330028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T19:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>350</wind_dir_degrees>
+  <wind_speed_kt>7</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.819881</altim_in_hg>
+  <sea_level_pressure_mb>1009.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1200" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201852Z AUTO 34006KT 10SM OVC010 03/03 A2982 RMK AO2 SLP098 T00330028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T18:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>340</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.819881</altim_in_hg>
+  <sea_level_pressure_mb>1009.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1000" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201752Z AUTO 35005KT 10SM OVC009 03/03 A2982 RMK AO2 RAE1654 SLP100 P0000 60008 T00280028 10028 20028 56009</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T17:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>350</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.819881</altim_in_hg>
+  <sea_level_pressure_mb>1010.0</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="900" />
+  <flight_category>IFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.9</three_hr_pressure_tendency_mb>
+  <maxT_c>2.8</maxT_c>
+  <minT_c>2.8</minT_c>
+  <precip_in>0.005</precip_in>
+  <pcp6hr_in>0.08</pcp6hr_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201652Z AUTO 33004KT 3SM -RA BR OVC008 03/03 A2983 RMK AO2 CIG 005V010 SLP103 P0000 T00280028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T16:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>330</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>3.0</visibility_statute_mi>
+  <altim_in_hg>29.828741</altim_in_hg>
+  <sea_level_pressure_mb>1010.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>-RA BR</wx_string>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="800" />
+  <flight_category>IFR</flight_category>
+  <precip_in>0.005</precip_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201650Z AUTO 33004KT 2 1/2SM -RA BR OVC008 03/03 A2983 RMK AO2 CIG 005V010 P0000</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T16:50:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.4</temp_c>
+  <dewpoint_c>3.0</dewpoint_c>
+  <wind_dir_degrees>330</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>2.5</visibility_statute_mi>
+  <altim_in_hg>29.828741</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>-RA BR</wx_string>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="800" />
+  <flight_category>IFR</flight_category>
+  <precip_in>0.005</precip_in>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201552Z AUTO 02007KT 6SM -RA BR OVC008 03/03 A2985 RMK AO2 SLP108 P0000 T00280028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T15:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>20</wind_dir_degrees>
+  <wind_speed_kt>7</wind_speed_kt>
+  <visibility_statute_mi>6.0</visibility_statute_mi>
+  <altim_in_hg>29.84941</altim_in_hg>
+  <sea_level_pressure_mb>1010.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>-RA BR</wx_string>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="800" />
+  <flight_category>IFR</flight_category>
+  <precip_in>0.005</precip_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201452Z AUTO 01005KT 5SM -RA BR OVC008 03/03 A2987 RMK AO2 SLP116 P0001 60008 T00280028 58006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T14:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>10</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>5.0</visibility_statute_mi>
+  <altim_in_hg>29.870079</altim_in_hg>
+  <sea_level_pressure_mb>1011.6</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>-RA BR</wx_string>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="800" />
+  <flight_category>IFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.6</three_hr_pressure_tendency_mb>
+  <precip_in>0.01</precip_in>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201352Z AUTO 35005KT 3SM RA BR OVC008 03/03 A2988 RMK AO2 SLP119 P0005 T00280028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T13:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>350</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>3.0</visibility_statute_mi>
+  <altim_in_hg>29.878937</altim_in_hg>
+  <sea_level_pressure_mb>1011.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>RA BR</wx_string>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="800" />
+  <flight_category>IFR</flight_category>
+  <precip_in>0.05</precip_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201252Z AUTO 01004KT 8SM -RA OVC008 03/03 A2988 RMK AO2 RAB1156 SLP119 P0002 T00280028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T12:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>10</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>8.0</visibility_statute_mi>
+  <altim_in_hg>29.878937</altim_in_hg>
+  <sea_level_pressure_mb>1011.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>-RA</wx_string>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="800" />
+  <flight_category>IFR</flight_category>
+  <precip_in>0.02</precip_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201152Z AUTO 35005KT 9SM OVC008 03/03 A2989 RMK AO2 RAE50 SLP121 P0001 60002 70002 T00280028 10039 20028 56009</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T11:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>350</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>9.0</visibility_statute_mi>
+  <altim_in_hg>29.890747</altim_in_hg>
+  <sea_level_pressure_mb>1012.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="800" />
+  <flight_category>IFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.9</three_hr_pressure_tendency_mb>
+  <maxT_c>3.9</maxT_c>
+  <minT_c>2.8</minT_c>
+  <precip_in>0.01</precip_in>
+  <pcp6hr_in>0.02</pcp6hr_in>
+  <pcp24hr_in>0.02</pcp24hr_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 201052Z AUTO 36004KT 4SM -RA BR OVC007 03/03 A2990 RMK AO2 SLP124 P0001 T00280028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T10:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>360</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>4.0</visibility_statute_mi>
+  <altim_in_hg>29.899607</altim_in_hg>
+  <sea_level_pressure_mb>1012.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>-RA BR</wx_string>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="700" />
+  <flight_category>IFR</flight_category>
+  <precip_in>0.01</precip_in>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200952Z AUTO 05004KT 8SM -RA OVC008 03/03 A2989 RMK AO2 RAB50 SLP124 P0000 T00330028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T09:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>50</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>8.0</visibility_statute_mi>
+  <altim_in_hg>29.890747</altim_in_hg>
+  <sea_level_pressure_mb>1012.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>-RA</wx_string>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="800" />
+  <flight_category>IFR</flight_category>
+  <precip_in>0.005</precip_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200924Z AUTO 04004KT 10SM OVC009 03/03 A2990 RMK AO2 T00330028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T09:24:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>40</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.899607</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="900" />
+  <flight_category>IFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200852Z AUTO 03003KT 10SM OVC010 03/03 A2991 RMK AO2 RAB28E43 SLP130 P0000 60000 T00330028 56019</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T08:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>30</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.911417</altim_in_hg>
+  <sea_level_pressure_mb>1013.0</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1000" />
+  <flight_category>MVFR</flight_category>
+  <three_hr_pressure_tendency_mb>-1.9</three_hr_pressure_tendency_mb>
+  <precip_in>0.005</precip_in>
+  <pcp3hr_in>0.005</pcp3hr_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200831Z AUTO 04005KT 10SM -RA BKN010 OVC015 03/03 A2992 RMK AO2 RAB28 P0000 T00330028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T08:31:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>40</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.920275</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>-RA</wx_string>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1000" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1500" />
+  <flight_category>MVFR</flight_category>
+  <precip_in>0.005</precip_in>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200752Z AUTO 07004KT 10SM OVC016 03/02 A2993 RMK AO2 SLP134 T00330022</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T07:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>2.2</dewpoint_c>
+  <wind_dir_degrees>70</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.929134</altim_in_hg>
+  <sea_level_pressure_mb>1013.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1600" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200652Z AUTO 04005KT 10SM OVC019 04/03 A2995 RMK AO2 SLP142 T00390028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T06:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>40</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.949802</altim_in_hg>
+  <sea_level_pressure_mb>1014.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1900" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200552Z AUTO 02003KT 10SM OVC019 04/03 A2997 RMK AO2 SLP149 60000 T00390028 10044 20039 56014</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T05:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>20</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.970472</altim_in_hg>
+  <sea_level_pressure_mb>1014.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1900" />
+  <flight_category>MVFR</flight_category>
+  <three_hr_pressure_tendency_mb>-1.4</three_hr_pressure_tendency_mb>
+  <maxT_c>4.4</maxT_c>
+  <minT_c>3.9</minT_c>
+  <pcp6hr_in>0.005</pcp6hr_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200452Z AUTO 02005KT 10SM OVC021 04/03 A2998 RMK AO2 SLP153 T00390028 400610017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T04:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>20</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.97933</altim_in_hg>
+  <sea_level_pressure_mb>1015.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2100" />
+  <flight_category>MVFR</flight_category>
+  <maxT24hr_c>6.1</maxT24hr_c>
+  <minT24hr_c>1.7</minT24hr_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200352Z AUTO 03004KT 10SM OVC022 04/03 A2999 RMK AO2 RAE0259 SLP156 P0000 T00390033</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T03:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>3.3</dewpoint_c>
+  <wind_dir_degrees>30</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.991142</altim_in_hg>
+  <sea_level_pressure_mb>1015.6</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2200" />
+  <flight_category>MVFR</flight_category>
+  <precip_in>0.005</precip_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200252Z AUTO 00000KT 10SM -RA OVC023 04/03 A3001 RMK AO2 RAB52 SLP162 P0000 60000 T00390033 56007</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T02:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>3.3</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.008858</altim_in_hg>
+  <sea_level_pressure_mb>1016.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <wx_string>-RA</wx_string>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2300" />
+  <flight_category>MVFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.7</three_hr_pressure_tendency_mb>
+  <precip_in>0.005</precip_in>
+  <pcp3hr_in>0.005</pcp3hr_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200152Z AUTO 00000KT 10SM OVC022 04/03 A3002 RMK AO2 SLP166 T00390033</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T01:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>3.3</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.02067</altim_in_hg>
+  <sea_level_pressure_mb>1016.6</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2200" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200135Z AUTO 00000KT 10SM BKN022 BKN043 OVC050 04/03 A3002 RMK AO2 T00390033</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T01:35:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>3.3</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.02067</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="2200" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4300" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 200052Z AUTO 00000KT 10SM BKN043 OVC050 04/03 A3002 RMK AO2 SLP167 T00390033</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-20T00:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>3.3</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.02067</altim_in_hg>
+  <sea_level_pressure_mb>1016.7</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4300" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 192352Z AUTO 00000KT 10SM OVC045 04/04 A3003 RMK AO2 SLP170 T00440039 10061 20044 58003</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T23:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.92</temp_c>
+  <dewpoint_c>3.9</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.029528</altim_in_hg>
+  <sea_level_pressure_mb>1017.0</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4500" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.3</three_hr_pressure_tendency_mb>
+  <maxT_c>6.1</maxT_c>
+  <minT_c>4.4</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 192319Z AUTO 00000KT 10SM SCT025 OVC049 05/04 A3003 RMK AO2 T00500039</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T23:19:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>41.0</temp_c>
+  <dewpoint_c>3.9</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.029528</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="2500" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 192310Z AUTO 00000KT 10SM BKN025 OVC049 04/04 A3003 RMK AO2 T00440039</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T23:10:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.92</temp_c>
+  <dewpoint_c>3.9</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.029528</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="2500" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 192252Z AUTO 00000KT 10SM OVC050 05/03 A3003 RMK AO2 SLP171 T00500033</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T22:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>41.0</temp_c>
+  <dewpoint_c>3.3</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.029528</altim_in_hg>
+  <sea_level_pressure_mb>1017.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 192152Z AUTO 00000KT 10SM FEW025 OVC050 05/04 A3004 RMK AO2 SLP172 T00500039</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T21:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>41.0</temp_c>
+  <dewpoint_c>3.9</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.041338</altim_in_hg>
+  <sea_level_pressure_mb>1017.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="2500" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 192144Z AUTO 00000KT 10SM FEW025 OVC050 05/03 A3004 RMK AO2 T00500033</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T21:44:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>41.0</temp_c>
+  <dewpoint_c>3.3</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.041338</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="2500" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 192052Z AUTO 35005KT 10SM OVC025 06/03 A3004 RMK AO2 SLP172 T00610033 58005</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T20:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.980000000000004</temp_c>
+  <dewpoint_c>3.3</dewpoint_c>
+  <wind_dir_degrees>350</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.041338</altim_in_hg>
+  <sea_level_pressure_mb>1017.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2500" />
+  <flight_category>MVFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.5</three_hr_pressure_tendency_mb>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191952Z AUTO 00000KT 10SM OVC026 06/03 A3005 RMK AO2 SLP175 T00610033</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T19:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.980000000000004</temp_c>
+  <dewpoint_c>3.3</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.050198</altim_in_hg>
+  <sea_level_pressure_mb>1017.5</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2600" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191852Z AUTO 04003KT 10SM BKN016 OVC026 06/03 A3005 RMK AO2 SLP178 T00560028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T18:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.08</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>40</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.050198</altim_in_hg>
+  <sea_level_pressure_mb>1017.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1600" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2600" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191850Z AUTO 00000KT 10SM BKN016 BKN024 OVC028 06/03 A3005 RMK AO2</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T18:50:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.8</temp_c>
+  <dewpoint_c>3.0</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.050198</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1600" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="2400" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2800" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191842Z AUTO 00000KT 10SM BKN014 BKN019 OVC030 06/03 A3006 RMK AO2 T00560028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T18:42:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.08</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.059055</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1400" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1900" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3000" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191832Z AUTO 00000KT 10SM SCT014 BKN019 OVC030 06/03 A3006 RMK AO2 T00560028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T18:32:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.08</temp_c>
+  <dewpoint_c>2.8</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.059055</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="1400" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1900" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3000" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191752Z AUTO 08003KT 10SM SCT009 BKN014 OVC018 05/02 A3007 RMK AO2 SLP185 T00500017 10050 20022 56012</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T17:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>41.0</temp_c>
+  <dewpoint_c>1.7</dewpoint_c>
+  <wind_dir_degrees>80</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.070866</altim_in_hg>
+  <sea_level_pressure_mb>1018.5</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="900" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1400" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1800" />
+  <flight_category>MVFR</flight_category>
+  <three_hr_pressure_tendency_mb>-1.2</three_hr_pressure_tendency_mb>
+  <maxT_c>5.0</maxT_c>
+  <minT_c>2.2</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191748Z AUTO 06003KT 10SM FEW009 OVC014 05/02 A3008 RMK AO2</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T17:48:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>41.0</temp_c>
+  <dewpoint_c>2.0</dewpoint_c>
+  <wind_dir_degrees>60</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.079725</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="900" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="1400" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191652Z AUTO 36003KT 10SM BKN017 OVC022 04/01 A3009 RMK AO2 SLP191 T00440011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T16:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.92</temp_c>
+  <dewpoint_c>1.1</dewpoint_c>
+  <wind_dir_degrees>360</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.088583</altim_in_hg>
+  <sea_level_pressure_mb>1019.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1700" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2200" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191552Z AUTO 00000KT 10SM OVC022 04/01 A3011 RMK AO2 SLP198 T00440011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T15:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.92</temp_c>
+  <dewpoint_c>1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.109253</altim_in_hg>
+  <sea_level_pressure_mb>1019.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2200" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191452Z AUTO 00000KT 10SM BKN029 OVC035 03/00 A3014 RMK AO2 SLP207 T00330000 58005</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T14:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.138779</altim_in_hg>
+  <sea_level_pressure_mb>1020.7</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="2900" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3500" />
+  <flight_category>MVFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.5</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191439Z AUTO 00000KT 10SM BKN027 OVC034 03/01 A3013 RMK AO2 T00330006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T14:39:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>0.6</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.129921</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="2700" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3400" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191430Z AUTO 10SM SCT023 BKN030 OVC036 03/00 A3013 RMK AO2 T00330000</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T14:30:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.129921</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="2300" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="3000" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3600" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191352Z AUTO 00000KT 10SM OVC026 03/00 A3014 RMK AO2 SLP208 T00280000</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T13:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.138779</altim_in_hg>
+  <sea_level_pressure_mb>1020.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2600" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191252Z AUTO 00000KT 10SM OVC029 03/M01 A3015 RMK AO2 SLP212 T00281006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T12:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.15059</altim_in_hg>
+  <sea_level_pressure_mb>1021.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2900" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191206Z AUTO 00000KT 10SM SCT019 OVC033 02/M01 A3015 RMK AO2 T00221011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T12:06:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.15059</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="1900" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3300" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191152Z AUTO 00000KT 10SM BKN019 OVC032 02/00 A3015 RMK AO2 SLP211 T00220000 10022 20017 58007</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T11:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.15059</altim_in_hg>
+  <sea_level_pressure_mb>1021.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="1900" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3200" />
+  <flight_category>MVFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.7</three_hr_pressure_tendency_mb>
+  <maxT_c>2.2</maxT_c>
+  <minT_c>1.7</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191052Z AUTO 00000KT 10SM OVC026 02/M01 A3015 RMK AO2 SLP213 T00221011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T10:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.15059</altim_in_hg>
+  <sea_level_pressure_mb>1021.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2600" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 191008Z AUTO 00000KT 10SM OVC029 02/M02 A3016 RMK AO2 T00221017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T10:08:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.159449</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2900" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190952Z AUTO 00000KT 10SM OVC032 02/M01 A3017 RMK AO2 SLP217 T00221006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T09:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.171259</altim_in_hg>
+  <sea_level_pressure_mb>1021.7</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3200" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190920Z AUTO 00000KT 10SM OVC031 02/M02 A3017 RMK AO2 T00171017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T09:20:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.171259</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3100" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190859Z AUTO 00000KT 10SM OVC029 02/M01 A3017 RMK AO2 T00171011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T08:59:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.171259</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2900" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190852Z AUTO 00000KT 10SM OVC031 02/M01 A3017 RMK AO2 SLP218 T00171011 58016</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T08:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.171259</altim_in_hg>
+  <sea_level_pressure_mb>1021.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3100" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>-1.6</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190843Z AUTO 00000KT 10SM OVC031 02/M02 A3017 RMK AO2 T00221017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T08:43:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.171259</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3100" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190752Z AUTO 00000KT 10SM BKN029 OVC041 02/M01 A3019 RMK AO2 SLP224 T00171011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T07:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.188976</altim_in_hg>
+  <sea_level_pressure_mb>1022.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="2900" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4100" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190731Z AUTO 04003KT 10SM BKN029 OVC040 02/M02 A3019 RMK AO2 T00171022</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T07:31:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-2.2</dewpoint_c>
+  <wind_dir_degrees>40</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.188976</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="2900" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4000" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190652Z AUTO 00000KT 10SM BKN032 OVC039 02/M02 A3020 RMK AO2 SLP230 T00171022</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T06:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-2.2</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.200787</altim_in_hg>
+  <sea_level_pressure_mb>1023.0</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="3200" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3900" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190552Z AUTO 04003KT 10SM BKN031 OVC038 02/M02 A3022 RMK AO2 SLP234 T00171022 10022 20017 58017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T05:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-2.2</dewpoint_c>
+  <wind_dir_degrees>40</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.221457</altim_in_hg>
+  <sea_level_pressure_mb>1023.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="3100" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3800" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>-1.7</three_hr_pressure_tendency_mb>
+  <maxT_c>2.2</maxT_c>
+  <minT_c>1.7</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190545Z AUTO 04003KT 10SM BKN030 OVC038 02/M02 A3022 RMK AO2 T00171022</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T05:45:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-2.2</dewpoint_c>
+  <wind_dir_degrees>40</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.221457</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="3000" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3800" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190452Z AUTO 00000KT 10SM OVC029 02/M02 A3024 RMK AO2 SLP241 T00171017 400390006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T04:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.239174</altim_in_hg>
+  <sea_level_pressure_mb>1024.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2900" />
+  <flight_category>MVFR</flight_category>
+  <maxT24hr_c>3.9</maxT24hr_c>
+  <minT24hr_c>0.6</minT24hr_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190352Z AUTO 00000KT 10SM OVC029 02/M01 A3025 RMK AO2 SLP245 T00171011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T03:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.250984</altim_in_hg>
+  <sea_level_pressure_mb>1024.5</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2900" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190252Z AUTO 00000KT 10SM OVC033 02/M02 A3027 RMK AO2 SLP251 T00171017 58014</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T02:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.268702</altim_in_hg>
+  <sea_level_pressure_mb>1025.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3300" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>-1.4</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190233Z AUTO 00000KT 10SM BKN031 OVC035 02/M02 A3027 RMK AO2 T00171022</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T02:33:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-2.2</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.268702</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="3100" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="3500" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190220Z AUTO 00000KT 10SM OVC029 02/M02 A3028 RMK AO2 T00171022</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T02:20:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-2.2</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.280512</altim_in_hg>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="2900" />
+  <flight_category>MVFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190152Z AUTO 00000KT 10SM FEW031 OVC042 02/M03 A3029 RMK AO2 SLP260 T00171028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T01:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-2.8</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.28937</altim_in_hg>
+  <sea_level_pressure_mb>1026.0</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="3100" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4200" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 190052Z AUTO 00000KT 10SM OVC044 02/M02 A3030 RMK AO2 SLP264 T00171022</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-19T00:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-2.2</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.301182</altim_in_hg>
+  <sea_level_pressure_mb>1026.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4400" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 182352Z AUTO 00000KT 10SM OVC043 02/M03 A3031 RMK AO2 SLP265 T00221033 10033 20022 58006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T23:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>-3.3</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.31004</altim_in_hg>
+  <sea_level_pressure_mb>1026.5</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4300" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.6</three_hr_pressure_tendency_mb>
+  <maxT_c>3.3</maxT_c>
+  <minT_c>2.2</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 182252Z AUTO 00000KT 10SM BKN042 OVC050 02/M03 A3032 RMK AO2 SLP269 T00221028</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T22:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>-2.8</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.318897</altim_in_hg>
+  <sea_level_pressure_mb>1026.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4200" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 182152Z AUTO 00000KT 10SM OVC055 03/M06 A3032 RMK AO2 SLP271 T00331061</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T21:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>-6.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.318897</altim_in_hg>
+  <sea_level_pressure_mb>1027.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5500" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 182052Z AUTO 00000KT 10SM FEW060 OVC080 03/M06 A3033 RMK AO2 SLP271 T00331056 55005</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T20:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>-5.6</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.33071</altim_in_hg>
+  <sea_level_pressure_mb>1027.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="6000" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="8000" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.5</three_hr_pressure_tendency_mb>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181952Z AUTO 00000KT 10SM OVC085 03/M07 A3032 RMK AO2 SLP269 T00331067</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T19:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>-6.7</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.318897</altim_in_hg>
+  <sea_level_pressure_mb>1026.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="8500" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181852Z AUTO 00000KT 10SM FEW065 OVC085 03/M06 A3033 RMK AO2 SLP274 T00331061</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T18:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>-6.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.33071</altim_in_hg>
+  <sea_level_pressure_mb>1027.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="6500" />
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="8500" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181752Z AUTO 23003KT 10SM BKN095 03/M06 A3034 RMK AO2 SLP277 T00331056 10033 20006 58016</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T17:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>-5.6</dewpoint_c>
+  <wind_dir_degrees>230</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.339567</altim_in_hg>
+  <sea_level_pressure_mb>1027.7</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="9500" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>-1.6</three_hr_pressure_tendency_mb>
+  <maxT_c>3.3</maxT_c>
+  <minT_c>0.6</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181652Z AUTO 22003KT 10SM FEW090 SCT110 03/M06 A3036 RMK AO2 SLP281 T00281056</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T16:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>-5.6</dewpoint_c>
+  <wind_dir_degrees>220</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.360237</altim_in_hg>
+  <sea_level_pressure_mb>1028.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="9000" />
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="11000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181552Z AUTO 33004KT 10SM BKN110 03/M06 A3038 RMK AO2 SLP290 T00281056</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T15:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>-5.6</dewpoint_c>
+  <wind_dir_degrees>330</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.380905</altim_in_hg>
+  <sea_level_pressure_mb>1029.0</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="11000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181452Z AUTO VRB04KT 10SM CLR 02/M06 A3039 RMK AO2 SLP293 T00221061 50005</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T14:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>-6.1</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.389763</altim_in_hg>
+  <sea_level_pressure_mb>1029.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>0.5</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181352Z AUTO 32004KT 10SM CLR 02/M06 A3039 RMK AO2 SLP294 T00171061</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T13:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-6.1</dewpoint_c>
+  <wind_dir_degrees>320</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.389763</altim_in_hg>
+  <sea_level_pressure_mb>1029.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181252Z AUTO VRB05KT 10SM CLR 01/M07 A3039 RMK AO2 SLP293 T00111067</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T12:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>33.98</temp_c>
+  <dewpoint_c>-6.7</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.389763</altim_in_hg>
+  <sea_level_pressure_mb>1029.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181152Z AUTO 31006KT 10SM CLR 01/M07 A3037 RMK AO2 SLP287 T00111067 10033 20011 53021</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T11:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>33.98</temp_c>
+  <dewpoint_c>-6.7</dewpoint_c>
+  <wind_dir_degrees>310</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.369095</altim_in_hg>
+  <sea_level_pressure_mb>1028.7</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>2.1</three_hr_pressure_tendency_mb>
+  <maxT_c>3.3</maxT_c>
+  <minT_c>1.1</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 181052Z AUTO 31007KT 10SM CLR 01/M06 A3034 RMK AO2 SLP277 T00111056</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T10:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>33.98</temp_c>
+  <dewpoint_c>-5.6</dewpoint_c>
+  <wind_dir_degrees>310</wind_dir_degrees>
+  <wind_speed_kt>7</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.339567</altim_in_hg>
+  <sea_level_pressure_mb>1027.7</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180952Z AUTO 33006KT 10SM CLR 02/M05 A3033 RMK AO2 SLP272 T00171050</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T09:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>-5.0</dewpoint_c>
+  <wind_dir_degrees>330</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.33071</altim_in_hg>
+  <sea_level_pressure_mb>1027.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180852Z AUTO 30005KT 10SM OVC041 03/M04 A3031 RMK AO2 SLP265 T00281044 51016</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T08:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>-4.4</dewpoint_c>
+  <wind_dir_degrees>300</wind_dir_degrees>
+  <wind_speed_kt>5</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.31004</altim_in_hg>
+  <sea_level_pressure_mb>1026.5</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4100" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>1.6</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180752Z AUTO 31009G14KT 10SM OVC041 03/M04 A3029 RMK AO2 SLP258 T00331039</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T07:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>-3.9</dewpoint_c>
+  <wind_dir_degrees>310</wind_dir_degrees>
+  <wind_speed_kt>9</wind_speed_kt>
+  <wind_gust_kt>14</wind_gust_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.28937</altim_in_hg>
+  <sea_level_pressure_mb>1025.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4100" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180652Z AUTO 31006KT 10SM OVC043 03/M03 A3029 RMK AO2 SLP259 T00331033</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T06:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>-3.3</dewpoint_c>
+  <wind_dir_degrees>310</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.28937</altim_in_hg>
+  <sea_level_pressure_mb>1025.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4300" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180552Z AUTO 30003KT 10SM BKN049 03/M03 A3026 RMK AO2 SLP249 T00281028 10056 20028 51012</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T05:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>-2.8</dewpoint_c>
+  <wind_dir_degrees>300</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.259842</altim_in_hg>
+  <sea_level_pressure_mb>1024.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4900" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>1.2</three_hr_pressure_tendency_mb>
+  <maxT_c>5.6</maxT_c>
+  <minT_c>2.8</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180452Z AUTO 31004KT 10SM OVC049 04/M02 A3025 RMK AO2 SLP246 T00391017 400780006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T04:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>310</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.250984</altim_in_hg>
+  <sea_level_pressure_mb>1024.6</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+  <flight_category>VFR</flight_category>
+  <maxT24hr_c>7.8</maxT24hr_c>
+  <minT24hr_c>0.6</minT24hr_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180352Z AUTO 33003KT 10SM OVC049 04/M01 A3024 RMK AO2 SLP241 T00391011</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T03:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>330</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.239174</altim_in_hg>
+  <sea_level_pressure_mb>1024.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4900" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180252Z AUTO 32004KT 10SM SCT050 04/M02 A3023 RMK AO2 SLP237 T00441017 53012</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T02:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.92</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>320</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.230314</altim_in_hg>
+  <sea_level_pressure_mb>1023.7</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>1.2</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180152Z AUTO 27004KT 10SM BKN050 05/M02 A3021 RMK AO2 SLP230 T00501017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T01:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>41.0</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>270</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.209646</altim_in_hg>
+  <sea_level_pressure_mb>1023.0</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 180052Z AUTO 00000KT 10SM OVC050 05/M02 A3019 RMK AO2 SLP224 T00501017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-18T00:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>41.0</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>0</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.188976</altim_in_hg>
+  <sea_level_pressure_mb>1022.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 172352Z AUTO 27004KT 10SM OVC050 06/M02 A3019 RMK AO2 SLP226 T00561017 10078 20050 53022</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T23:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.08</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>270</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.188976</altim_in_hg>
+  <sea_level_pressure_mb>1022.6</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>2.2</three_hr_pressure_tendency_mb>
+  <maxT_c>7.8</maxT_c>
+  <minT_c>5.0</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 172252Z AUTO 28004KT 10SM BKN048 06/M02 A3017 RMK AO2 SLP218 T00561017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T22:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.08</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>280</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.171259</altim_in_hg>
+  <sea_level_pressure_mb>1021.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4800" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 172152Z AUTO 32003KT 10SM OVC050 06/M02 A3015 RMK AO2 SLP209 T00611017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T21:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.980000000000004</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>320</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.15059</altim_in_hg>
+  <sea_level_pressure_mb>1020.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 172052Z AUTO 29004KT 10SM OVC050 07/M02 A3013 RMK AO2 SLP203 T00671022 53014</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T20:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>44.06</temp_c>
+  <dewpoint_c>-2.2</dewpoint_c>
+  <wind_dir_degrees>290</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.129921</altim_in_hg>
+  <sea_level_pressure_mb>1020.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>1.4</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171952Z AUTO 29009KT 10SM BKN050 07/M02 A3011 RMK AO2 SLP195 T00721022</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T19:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>44.96</temp_c>
+  <dewpoint_c>-2.2</dewpoint_c>
+  <wind_dir_degrees>290</wind_dir_degrees>
+  <wind_speed_kt>9</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.109253</altim_in_hg>
+  <sea_level_pressure_mb>1019.5</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171852Z AUTO 29008G15KT 10SM BKN049 08/M02 A3009 RMK AO2 SLP192 T00781017</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T18:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>46.04</temp_c>
+  <dewpoint_c>-1.7</dewpoint_c>
+  <wind_dir_degrees>290</wind_dir_degrees>
+  <wind_speed_kt>8</wind_speed_kt>
+  <wind_gust_kt>15</wind_gust_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.088583</altim_in_hg>
+  <sea_level_pressure_mb>1019.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4900" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171752Z AUTO 30009KT 10SM BKN050 07/M01 A3009 RMK AO2 SLP189 T00721011 10072 20006 58003</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T17:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>44.96</temp_c>
+  <dewpoint_c>-1.1</dewpoint_c>
+  <wind_dir_degrees>300</wind_dir_degrees>
+  <wind_speed_kt>9</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.088583</altim_in_hg>
+  <sea_level_pressure_mb>1018.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>-0.3</three_hr_pressure_tendency_mb>
+  <maxT_c>7.2</maxT_c>
+  <minT_c>0.6</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171652Z AUTO VRB06KT 10SM OVC046 07/M01 A3010 RMK AO2 SLP193 T00671006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T16:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>44.06</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>0</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.100393</altim_in_hg>
+  <sea_level_pressure_mb>1019.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4600" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171552Z AUTO 28008KT 10SM BKN045 07/M01 A3010 RMK AO2 SLP192 T00671006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T15:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>44.06</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>280</wind_dir_degrees>
+  <wind_speed_kt>8</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.100393</altim_in_hg>
+  <sea_level_pressure_mb>1019.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4500" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171452Z AUTO 24007KT 210V270 10SM OVC050 06/00 A3010 RMK AO2 SLP193 T00560000 51018</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T14:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>42.08</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <wind_dir_degrees>240</wind_dir_degrees>
+  <wind_speed_kt>7</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.100393</altim_in_hg>
+  <sea_level_pressure_mb>1019.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>1.8</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171352Z AUTO 24004KT 10SM SCT050 04/01 A3010 RMK AO2 SLP193 T00440006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T13:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.92</temp_c>
+  <dewpoint_c>0.6</dewpoint_c>
+  <wind_dir_degrees>240</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.100393</altim_in_hg>
+  <sea_level_pressure_mb>1019.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171252Z AUTO 24003KT 10SM FEW039 03/00 A3008 RMK AO2 SLP186 T00280000</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T12:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <wind_dir_degrees>240</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.079725</altim_in_hg>
+  <sea_level_pressure_mb>1018.6</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="3900" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171152Z AUTO 20003KT 10SM FEW036 SCT050 01/M01 A3005 RMK AO2 SLP176 70001 T00061006 10039 20006 53036</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T11:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>33.08</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>200</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.050198</altim_in_hg>
+  <sea_level_pressure_mb>1017.6</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="3600" />
+  <sky_condition sky_cover="SCT" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>3.6</three_hr_pressure_tendency_mb>
+  <maxT_c>3.9</maxT_c>
+  <minT_c>0.6</minT_c>
+  <pcp24hr_in>0.01</pcp24hr_in>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 171052Z AUTO 21004KT 10SM FEW050 01/M01 A3001 RMK AO2 SLP163 T00111006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T10:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>33.98</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>210</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>30.008858</altim_in_hg>
+  <sea_level_pressure_mb>1016.3</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170952Z AUTO 23004KT 10SM CLR 02/M01 A2997 RMK AO2 SLP151 T00221006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T09:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.96</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>230</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.970472</altim_in_hg>
+  <sea_level_pressure_mb>1015.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="CLR" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170852Z AUTO 26003KT 10SM FEW045 03/M01 A2994 RMK AO2 SLP138 T00331006 51020</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T08:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>260</wind_dir_degrees>
+  <wind_speed_kt>3</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.940945</altim_in_hg>
+  <sea_level_pressure_mb>1013.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="4500" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>2.0</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170752Z AUTO 27004KT 10SM BKN042 03/M01 A2992 RMK AO2 SLP135 T00331006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T07:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>270</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.920275</altim_in_hg>
+  <sea_level_pressure_mb>1013.5</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4200" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170652Z AUTO 24006KT 10SM BKN040 04/M01 A2989 RMK AO2 SLP125 T00391006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T06:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>240</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.890747</altim_in_hg>
+  <sea_level_pressure_mb>1012.5</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170552Z AUTO 26008KT 10SM OVC043 04/M01 A2988 RMK AO2 SLP119 T00391006 10039 20011 51020</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T05:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>260</wind_dir_degrees>
+  <wind_speed_kt>8</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.878937</altim_in_hg>
+  <sea_level_pressure_mb>1011.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4300" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>2.0</three_hr_pressure_tendency_mb>
+  <maxT_c>3.9</maxT_c>
+  <minT_c>1.1</minT_c>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170452Z AUTO 25004KT 10SM OVC041 04/M01 A2986 RMK AO2 SLP114 T00391006 400440006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T04:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>-0.6</dewpoint_c>
+  <wind_dir_degrees>250</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.861221</altim_in_hg>
+  <sea_level_pressure_mb>1011.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4100" />
+  <flight_category>VFR</flight_category>
+  <maxT24hr_c>4.4</maxT24hr_c>
+  <minT24hr_c>0.6</minT24hr_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170352Z AUTO 24006KT 10SM OVC046 04/00 A2984 RMK AO2 SLP108 T00390000</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T03:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>39.019999999999996</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <wind_dir_degrees>240</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.840551</altim_in_hg>
+  <sea_level_pressure_mb>1010.8</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="4600" />
+  <flight_category>VFR</flight_category>
+  <metar_type>SPECI</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170252Z AUTO 23004KT 10SM BKN046 03/00 A2982 RMK AO2 SLP099 T00330000 51015</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T02:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <wind_dir_degrees>230</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.819881</altim_in_hg>
+  <sea_level_pressure_mb>1009.9</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4600" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>1.5</three_hr_pressure_tendency_mb>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170152Z AUTO 23006KT 10SM OVC050 03/01 A2980 RMK AO2 SLP092 T00330006</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T01:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.94</temp_c>
+  <dewpoint_c>0.6</dewpoint_c>
+  <wind_dir_degrees>230</wind_dir_degrees>
+  <wind_speed_kt>6</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.799213</altim_in_hg>
+  <sea_level_pressure_mb>1009.2</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 170052Z AUTO 21004KT 10SM BKN046 02/00 A2979 RMK AO2 SLP091 T00170000</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-17T00:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>35.06</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <wind_dir_degrees>210</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.790354</altim_in_hg>
+  <sea_level_pressure_mb>1009.1</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4600" />
+  <flight_category>VFR</flight_category>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
+<METAR>
+  <raw_text>KIJD 162352Z AUTO 23004KT 10SM FEW040 BKN048 03/00 A2977 RMK AO2 SLP084 T00280000 10044 20022 51031</raw_text>
+  <station_id>KIJD</station_id>
+  <observation_time>2018-11-16T23:52:00Z</observation_time>
+  <latitude>41.75</latitude>
+  <longitude>-72.18</longitude>
+  <temp_c>37.04</temp_c>
+  <dewpoint_c>0.0</dewpoint_c>
+  <wind_dir_degrees>230</wind_dir_degrees>
+  <wind_speed_kt>4</wind_speed_kt>
+  <visibility_statute_mi>10.0</visibility_statute_mi>
+  <altim_in_hg>29.769686</altim_in_hg>
+  <sea_level_pressure_mb>1008.4</sea_level_pressure_mb>
+  <quality_control_flags>
+    <auto>TRUE</auto>
+    <auto_station>TRUE</auto_station>
+  </quality_control_flags>
+  <sky_condition sky_cover="FEW" cloud_base_ft_agl="4000" />
+  <sky_condition sky_cover="BKN" cloud_base_ft_agl="4800" />
+  <flight_category>VFR</flight_category>
+  <three_hr_pressure_tendency_mb>3.1</three_hr_pressure_tendency_mb>
+  <maxT_c>4.4</maxT_c>
+  <minT_c>2.2</minT_c>
+  <metar_type>METAR</metar_type>
+  <elevation_m>75.0</elevation_m>
+</METAR>
+
